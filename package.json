@@ -1,0 +1,19 @@
+{
+  "name": "dappsociety-bounty-contracts",
+  "version": "0.1.0",
+  "description": "Blockchain bounty system for bootstrapping projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DappSociety/bounty-contracts.git"
+  },
+  "author": "DappSociety",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DappSociety/bounty-contracts/issues"
+  },
+  "homepage": "https://github.com/DappSociety/bounty-contracts",
+  "dependencies": {
+    "zeppelin-solidity": "1.7.0"
+  },
+  "devDependencies": {}
+}
