@@ -13,7 +13,12 @@
   },
   "homepage": "https://github.com/DappSociety/bounty-contracts",
   "dependencies": {
+    "dappsociety-token-contracts": "github:dappsociety/token-contracts#wip",
     "zeppelin-solidity": "1.7.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.18.2",
+    "solidity-coverage": "^0.4.11"
+  }
 }
